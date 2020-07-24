@@ -20,7 +20,7 @@ The `Application Technology and Django` is Course **1** of **4** courses in
 | Week  | Assignment Name  | Mark Obtained  | Date(MM/DD/YYYY)  |
 |---   |---   |---   |---   |
 | Week-01  | Exploring the HyperText Transfer Protocol  | 100%  | 07-24-2020  |
-| Week-02  | Auto-grader: Installing Django  |   |  |
+| Week-02  | Auto-grader: Installing Django  | 100%  | 07-24-2020 |
 | Week-03  | ---------------------  | ---%  | ----------  |
 | Week-04  | Peer-Graded: Cascading Style Sheets  |   | |
 | Week-05  | Auto-grader: Basic SQL |   |   |
